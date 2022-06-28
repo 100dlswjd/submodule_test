@@ -1,0 +1,3 @@
+[submodule "funny"]
+	path = funny
+	url = https://github.com/100dlswjd/funny.git
